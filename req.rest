@@ -1,0 +1,12 @@
+# GET http://localhost:4000
+
+# POST http://localhost:4000
+
+# {
+#     "name":"pari",
+#     "age":"10",
+#     "gender":"female",
+#     "school":"shivajirao"
+# }
+
+PUT http://localhost:4000
